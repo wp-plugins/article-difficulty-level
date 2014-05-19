@@ -1,0 +1,35 @@
+
+.H1{
+    font-size: 35px;
+    display:inline-block;
+    margin:-20px 0px 20px 0px;
+    clear:both;
+}
+
+.H2{
+    font-size: 30px;
+    display:inline-block;
+    margin:-20px 0px 5px 0px;
+    clear:both;
+}
+
+.H3{
+    font-size: 25px;
+    display:inline-block;
+    margin:-20px 0px 5px 0px;
+    clear:both;
+}
+
+.H4{
+    font-size: 20px;
+    display:inline-block;
+    margin:-20px 0px 5px 0px;
+    clear:both;
+}
+
+.H5{
+    font-size: 15px;
+    display:inline-block;
+    margin:-20px 0px 5px 0px;
+    clear:both;
+}
