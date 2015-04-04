@@ -2,8 +2,8 @@
 Contributors: vinoth06, buffercode
 Tags: post, rating, article level, difficulty level article, rating plugin, best post rating
 Requires at least: 2.9
-Tested up to: 3.9
-Stable tag: 2.2.2
+Tested up to: 4.1.1
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,6 +15,9 @@ Through this plugin, user can able to select the post difficulty level in admin 
 * User can select the difficulty level for each post in post area.
 * User can able to choose the star size and color to show the difficulty level.
 * User can able to choose the where to show the difficulty level, that is either in Home only or Post only or Both. 
+v 3.0
+
+* Now user can update wide list of icons for their difficulty level from http://fortawesome.github.io/Font-Awesome/icons/
 
 v 2.2.2 [19-5-2014]
 
@@ -85,6 +88,10 @@ For more information - http://buffercode.com/article-difficulty-level/
 For more information - [Buffercode](http://buffercode.com/article-difficulty-level/)
 
 == Changelog ==
+
+= 3.0 =
+* Now user can update wide list of icons for their difficulty level from http://fortawesome.github.io/Font-Awesome/icons/
+
 = 2.2.2 =
 * Updated to 3.9.1 version
 
@@ -132,6 +139,8 @@ For more information - [Buffercode](http://buffercode.com/article-difficulty-lev
 For more information - [Buffercode](http://buffercode.com/article-difficulty-level/)
 
 == Upgrade Notice ==
+= 3.0 =
+* Now user can update wide list of icons for their difficulty level from http://fortawesome.github.io/Font-Awesome/icons/
 
 = 2.2.1 =
 * Bug fixes - collision with default H1 tag.
