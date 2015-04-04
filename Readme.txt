@@ -15,6 +15,7 @@ Through this plugin, user can able to select the post difficulty level in admin 
 * User can select the difficulty level for each post in post area.
 * User can able to choose the star size and color to show the difficulty level.
 * User can able to choose the where to show the difficulty level, that is either in Home only or Post only or Both. 
+
 v 3.0
 
 * Now user can update wide list of icons for their difficulty level from http://fortawesome.github.io/Font-Awesome/icons/
